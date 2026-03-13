@@ -177,3 +177,4 @@ Esta abordagem oferece o melhor equilíbrio entre:
 - Layout: Grid assimétrico com cards em cascata
 - Animações: Glow pulse, fade-in, ripple effect
 - Componentes: Glassmorphism para carrinho, bordas neon para seleção
+...
